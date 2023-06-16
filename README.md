@@ -1,3 +1,3 @@
-# Timo on board
+# Timo on Board
 
 Enjoy the ride
