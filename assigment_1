@@ -1,0 +1,19 @@
+change directory to /root
+then create empty file so_cool
+ans: cd /root
+     touch s0_cool
+
+change directory to /root
+then copy file school to /tmp
+ans: cd /root
+     cp school /tmp
+
+change directory to /root
+then rename the file old_school to new_school
+ans: cd /root
+     mv old_school new_school
+
+change working directory to /root
+then move the file not_here to /tmp/right_school
+ans: cd /root
+    mv not_here /tmp/right_school
